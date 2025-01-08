@@ -94,14 +94,14 @@ index_file_end = """
 
 原文にはライセンスが無かったため，原著者より許諾をいただいて翻訳させていただいています．（ `Zulip chat <https://leanprover.zulipchat.com/#narrow/stream/270676-lean4/topic/.E2.9C.94.20Translating.20.60Mathematics.20in.20Lean.60.20to.20Japanese/near/395294386>`_ ）
 
-誤字脱字・内容の誤りの指摘・フォークからのPull Request・フォークによる翻訳の改変等歓迎いたします．ご指摘は `当該リポジトリ <https://github.com/lean-ja/mathematics_in_lean_source>`_ にてIssue・Pull Requestで受け付けております．
+誤字脱字・内容の誤りの指摘・フォークからのPull Request・フォークによる翻訳の改変等歓迎いたします．ご指摘は `当該リポジトリ <https://github.com/s-taiga/MIL_ja>`_ にてIssue・Pull Requestで受け付けております．
 
 翻訳に際して，機械翻訳サービス `DeepL翻訳 <https://www.deepl.com/ja/translator>`_ を参考にしました．
 
 バージョン情報
 --------------
 
-この翻訳は原文のcommit `e3d23850cb3cea5016f98d5ca25160b9a74727b9 <https://github.com/lean-ja/mathematics_in_lean_source/commit/e3d23850cb3cea5016f98d5ca25160b9a74727b9>`_ に基づいています．
+この翻訳は原文のcommit `e3d23850cb3cea5016f98d5ca25160b9a74727b9 <https://github.com/avigad/mathematics_in_lean_source/commit/e3d23850cb3cea5016f98d5ca25160b9a74727b9>`_ に基づいています．
 
 """
 
